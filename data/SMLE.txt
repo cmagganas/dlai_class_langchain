@@ -1,0 +1,53 @@
+Weights & Biases
+Machine Learning Engineer, Customer Success (Remote)
+SAN FRANCISCO, CALIFORNIA /CUSTOMER SUCCESS – SUCCESS ML ENGINEER - ENTERPRISE /FULL-TIME/ REMOTE
+At Weights & Biases, our mission is to build the best developer tools for machine learning. We're hiring a Machine Learning Engineer - Customer Success to help our customers solve difficult, real-world problems and engage in ground-breaking research by using our developer tools in their machine learning pipelines. 
+
+In this role, you'll be working with the most sophisticated ML teams in the world working on some of the toughest ML problems in computer vision, robotics, natural language processing, and more. Your responsibility will be to make their work easier with our tools. You'll have the opportunity to work with ML teams across multiple industries to uncover their ML needs, improve their ML workflow, explore how W&B fits into their environment, collaborate on projects, and educate them on the best practices of our product.
+
+Machine Learning Engineers on our customer success teams are critical to the success of our customers at Weights & Biases. You'll partner with Customer Success, Support, Product and Engineering teams to own the technical onboarding and success of our customers, serving as the primary knowledge owner and face to our customers. You'll help drive adoption, understand innovative customer use cases, and serve as the primary problem solver in our customers' machine learning workflows.
+
+Weights & Biases is a series C company with over $200 million in funding. Our core users and enterprise customers are growing rapidly and we're facing exciting challenges ahead to keep up with growing demand and to create a platform that is essential to machine learning developers. Our customers range from small startups to enterprise companies including OpenAI, Insitro, Pandora, Toyota Research Institute, Lyft, Blue Cross Blue Shield and Qualcomm.
+
+This is a perfect opportunity for anyone who has machine learning experience, is customer-oriented, and is looking to work with the top ML companies in the world.
+Responsibilities
+Be an expert in implementing effective, robust, and reproducible machine learning pipelines for engineering teams using Weights & Biases tools
+Effectively articulate best practices for instrumenting machine learning pipelines to our customers as a trusted advisor
+Partner with our customers to uncover their desired outcomes and be the trusted advisor to help them realize the full potential of W&B in solving their problem
+Provide customer training sessions, product demos, and workshops covering best practices & different solutions W&B offers to drive adoption
+Partner with Customer Success Managers to create processes for the post-sales lifecycle (Onboarding/Training, Adoption, Workshops, Demos, etc.)
+Collaborate closely with Support, Product and Engineering teams to influence product roadmap based on customer feedback
+Requirements
+2-3 years of relevant experience in a similar role
+Experience using one or more of the following packages: TensorFlow/Keras, PyTorch Lightning
+Strong programming proficiency in Python and eagerness to help customers who are primarily users of Python deep learning frameworks and tools be successful
+Excellent communication and presentation skills, both written and verbal
+Ability to effectively manage multiple conflicting priorities, respond promptly and manage time effectively in a fast-paced, dynamic team environment
+Ability to break down complex problems and resolve them through customer consultation and execution.
+Experience with cloud platforms (AWS, GCP, Azure)
+Experience with Linux/Unix
+Strong Plus
+Proficiency with one or more of the following packages: HuggingFace, Fastai, scikit-learn, XGBoost, LightGBM, Ray
+Experience with hyperparameter optimization solutions
+Experience with data engineering, MLOps and tools such as Docker and Kubernetes
+Experience with data pipeline tools
+Experience as an ML educator and/or building and executing customer training sessions, product demos and/or workshops at a SaaS company
+Who this role is for
+Passion for machine learning: You understand how exciting the ML space is and how quickly it's growing. You're excited to speak with industry leaders at the forefront of ML research and development
+Outgoing and friendly: You'll love this role if you enjoy connecting with real users every day, helping them adopt the Weights & Biases platform, and answering all of their questions
+Technically Savvy: You enjoy instrumenting models in PyTorch, Keras, and TensorFlow and understand complicated workflows
+Autonomous and adaptable: You understand different companies have different workflows, and you're excited to solve these challenges
+Curious and Driven: You want to understand future customers' ML workflow and prove how Weights & Biases will improve their day-to-day
+Our benefits
+🏝️ Flexible time off
+🩺 Medical, Dental, and Vision for employees and Family Coverage
+🏠 Remote first culture with in-office flexibility in San Francisco
+💵 Home office budget with a new high-powered laptop
+🥇 Truly competitive salary and equity
+🚼 12 weeks of Parental leave (U.S. specific)
+📈 401(k) (U.S. specific)
+Supplemental benefits may be available depending on your location
+Explore benefits by country
+We encourage you to apply even if your experience doesn't perfectly align with the job description as we seek out diverse and creative perspectives. Team members who love to learn and collaborate in an inclusive environment will flourish with us. We are an equal opportunity employer and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you need additional accommodations to feel comfortable during your interview process, reach out at careers@wandb.com.
+
+#LI-Remote

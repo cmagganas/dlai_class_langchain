@@ -1,0 +1,100 @@
+Purpose and Values at Weights and Biases
+Lukas Biewald
+
+
+As Weights & Biases grows, we’ve been reflecting on what we love about this company. There are many ways to build a great business, we want to share the approach that works for us.
+
+Our mission is to build the best tools for ML practitioners. To develop those tools we need to build an exceptional team with a diverse set of skills and perspectives, aligned around two key questions:
+
+Purpose: What motivates us?
+
+Values: What attributes and behaviors do we especially value?
+
+To make our high-level values more concrete, we’ve included examples and counter-examples (anti-patterns). We’ve changed some details in the anti-patterns sections to avoid embarrassing anyone.​​
+
+
+Purpose
+What motivates us?
+
+Make a positive impact on the world by improving the state of the art of machine learning
+
+We believe that machine learning will have a massive impact on the world. At this very moment, machine learning is improving our daily lives in many tangible ways: helping scientists treat common forms of cancer, helping architects design more energy efficient buildings, and helping farmers use dramatically less pesticides.
+
+We acknowledge that there are some applications of ML where it’s difficult to ascertain whether the impact will be positive or negative, and that there are even some applications of ML which are clearly bad for the world. We believe that these cases are a minority of possible uses — that ultimately ML is a force for tremendous good.
+
+We build tools that both move forward the state of the art of machine learning and actively make machine learning safer. For example, W&B Reports help ML teams collaborate better, increasing productivity and advancing the field, while also helping teams discover possible biases in a model before it goes into production. W&B Artifacts help ML teams reproduce their work, which means that when something breaks in production they can diagnose exactly what went wrong. This leads to more reliable ML systems that are both safer and more useful.
+
+Support the machine learning practitioners — our present and future customers
+
+We started this company because we admired the people on the ground developing, building, and deploying the machine learning models we use every day, and we wanted to make their lives better. We find meaning in helping them pursue their work.
+
+We love supporting research scientists and the most innovative startups because they push forward the state of the art. They drive us to build things that will be useful for mainstream machine learning in the future. This is why we are committed to always keeping a free version of W&B for our academic users.
+
+We love supporting ML teams at big companies because they have the chance to bring machine learning into new meaningful applications and have the biggest immediate impact.
+
+We love supporting software developers trying to change their specialization, students excited by technology, or anyone that wants to get into the field. The world benefits from more ML practitioners, and we have a chance to make ML more accessible to everyone.
+
+Build a great business
+
+Finally, we find meaning in the challenge of building a valuable and sustainable business. Building a great company is the engine that enables us to help ML practitioners and have a big positive impact on the world. We spend a large fraction of our short lives at work, and making that a positive experience is meaningful in its own right. What’s more, it’s fun to work with talented people towards a common goal.
+
+Values
+What attributes and behaviors do we especially value?
+
+
+Honesty
+We can’t make any smart decisions if we’re not honest with each other and with ourselves. Honesty helps us see clearly so we can make informed decisions. It surfaces problems so we can work on solving them together instead of avoiding them alone. Honesty lets us talk about hard truths which we can still deliver with kindness.
+
+A key part of honesty is making it comfortable for the people around you — especially the people who report to you — to be honest.
+
+Example
+
+In 2019 we set a goal of user growth when all of a sudden growth stopped. The exec in charge of growth reported the uncomfortable number to the company every week over and over without knowing what was driving it or if it was even possible to fix. This weekly reporting caused the company to address the problem head on and learn what the growth drivers really were.
+Anti-Pattern
+
+An exec would see that the number they were responsible for was flat, and present plausible but incorrect stories about the lack of growth. A better approach would have been to actually interrogate the data or even just to admit that we didn’t know why that metric wasn’t growing.
+In the early days, a sales exec worried that customers wouldn’t want to work with such a small company, so they would exaggerate the team size. A better way would have been to emphasize our small size and point out the benefits. Working with a small company has benefits that our early customers appreciated such as getting to work with the founders and getting a big say in the prioritization of product features.
+Curiosity
+Machine learning changes constantly. Our market moves incredibly fast, and the needs of our customers evolve frequently. The reality is that nobody has all the solutions. To succeed at W&B, we don’t expect teams to have all the answers — we want to ask the right questions and find out. We want to work with people who know they don’t understand everything and who never stop learning.
+
+Examples
+
+Our first two really successful account executives have totally different selling styles but one thing they have in common is a lot of curiosity about what our customers are doing. Customers love this, and it makes our execs smarter and smarter about the space over time.
+In her job interview, our first PM asked to talk to customers, then came back with much better product recommendations.
+HR set the 2021 Q4 people ops priority (improving feedback) by first surveying the company on what employees thought was important.
+Our first admin/office manager did not have a technical background but learned enough of our product to train models herself.
+Anti-Pattern
+
+An exec joined from an adjacent market and was excited about machine learning because it seemed lucrative, but they weren’t actually interested in or curious about machine learning as a subject or practice. This caused them to lose the trust of their own team because they were the least knowledgeable about what the customers were actually trying to accomplish and made it impossible for them to connect with the customers.
+A department head joined the team and started making major process changes before talking to all of the people on their team.
+
+Gumption
+Gumption is about seeing what’s important and taking action. Changing the status quo means overcoming inertia and taking on risk, but the cost of staying complacent, while less obvious, is far more insidious. We want to work with people who want to make decisions, feel empowered by autonomy, and understand the influence they can have to drive outcomes.
+
+Some decisions really are irreversible and require caution. But most decisions can be reversed without too much trouble, and especially when that’s the case we think it’s important to be bold, make a call and move forward.
+
+Examples
+
+An engineer saw bugs pile up in an old code base with few built-in tests. Changing it was a scary process because it’s easy to inadvertently introduce new bugs, but he refactored it and put it in a good place going forward.
+A customer success person noticed that we didn’t have a customer health dashboard in salesforce, so he went ahead and made one himself.
+An early engineer joined W&B and took on self-service payments as his first project. He didn’t just do a great job implementing a payment flow and writing tests; he added a whole suite of easily accessible metrics so we could observe the growth.
+Early in the company we started to get an influx of user requests. A PM started by fielding those requests directly, then created a process, trained a couple people to do it, and ultimately built out a team to handle thousands of requests.
+Anti-Pattern
+
+We had a new hire tasked with publishing content, but they got stuck in the details and needed to wait until everything was perfect to push it out. This led to a pernicious cycle of inaction.
+
+Grit
+Adversity comes along with the process of making anything new. And often, the difference between success and failure is rolling up our sleeves and finishing a bunch of unglamorous tasks. Grit is about rising to the occasion. It’s about trying, learning from our successes and our failures, not pointing fingers, and never seeing something daunting and thinking “I can’t.”
+
+Examples
+
+An FP&A employee dug into which customers were using the product from a gmail account. It was a painful manual process, but it revealed that many more of our customers had tried our product under a non-corporate account before buying, which led us to a more PLG-focused sales strategy.
+An early user complained that our app looked terrible, to the point where he didn’t want to use it. The prod/eng team rallied around polishing the app, eventually turning that user into a strong proponent of W&B.
+Our first designer joined us to do design, but when we didn’t have the front end engineers to implement her designs she rolled up her sleeves and got into the code, and when we’re constrained with data resources, she does her own analysis. This helps us ship features faster and often leads to better designs.
+An engineer took total ownership of our self service purchasing flows, despite the messy code and messy design, and massively improved the feature.
+Anti-Pattern
+
+We hired an exec who immediately wanted to hire a team to delegate work before trying the task themselves. This caused them to not understand much of the nuance of the task they were trying to delegate, which led to failure.
+As we mentioned up front: our purpose and our values aren’t universal. But they do accurately describe what motivates us and what makes people effective colleagues and teammates at W&B.
+
+We’re excited about not just what we’re building but how we’re building it together. We hope that, if you’re considering working with us in any capacity, you have an honest glimpse into how we operate and how we think about the world.

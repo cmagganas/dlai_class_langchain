@@ -1,0 +1,31 @@
+Dear Hiring Manager,
+
+I am thrilled to apply for the position of Machine Learning Engineer - Customer Success at Weights & Biases. As an AI/ML Research Assistant at Kaleidoscope Data and a former member of the Cisco Data Science team, I believe my background and core attributes make me an ideal candidate for this role.
+
+In my previous position with the Cisco (CX) Customer Experience Data Science team, I led an initiative to enhance ML lifecycle observability through ML Ops Continuous Monitoring principles during our migration to Google Cloud. This project required cross-departmental collaboration and aligning diverse needs with overarching business goals. I took charge of creating an architectural framework and implementing an industry-best-practice roadmap. Additionally, I identified gaps in the monitoring framework and developed a comprehensive dashboard, providing crucial insights into ML lifecycle performance, stability, and operational metrics.
+
+My education in Machine Learning Engineering from FourthBrain, along with the workshops I completed, has equipped me with the technical and practical skills necessary to contribute to high-performing AI product teams. The workshops included Building Generative AI Applications (Developing and deploying end-to-end applications using LLMs and Diffusion Models) and Building with LLMs (Fine-tuning LLMs, using LangChain and building document Q&A apps). This foundational coursework has provided me with valuable insights and practical experience in utilizing advanced AI techniques and models to develop innovative applications. Notably, during the Machine Learning Engineering program, my partner and I successfully developed a low-latency end-to-end few-shot keyword spotting (FS-KWS) pipeline for personalization. This real-time application, running on an edge device, showcased our ability to deliver cutting-edge solutions. We presented our project to potential users, collaborators, employers, and the wider open-source ML community during the demo day, further emphasizing our capacity to deliver innovative and impactful solutions. I am excited to leverage the skills and knowledge gained from FourthBrain to contribute to the success of Weights & Biases and its customers.
+
+During my time as a Data Analyst at HCL, I leveraged Google Cloud technologies to collect data, write ETL scripts, and create BI Dashboards to address critical business challenges. By utilizing Data Studio, I effectively conveyed analysis results, emphasizing their significance and telling a compelling story. My proficiency in cloud-based Big Data platforms enabled me to tackle real-world problems arising from the exponential growth of data.
+
+While working as a Data Analyst at Commercial Energy, I built tools using VBA (Excel) and SQL to analyze customer usage data. By utilizing forecasting tools and performing complex calculations, I provided actionable savings recommendations. Additionally, I analyzed the price volatility of wholesale natural gas, delivering reports to our Chief Risk Officer and the Risk Management Team to facilitate informed purchasing decisions. Through automation and continuous skill development, I optimized daily processes, reducing the time required from two hours to fifteen minutes. This experience reinforced my passion for problem-solving and my ability to thrive when challenged with new or evolving responsibilities.
+Now, focusing on the core attributes that make me an excellent fit for this role:
+
+Positive: I am the torchbearer whose light shines brightest in the darkness, leading the team towards progress and lifting morale. Throughout my previous roles, I consistently brought a can-do motivation that inspired the team to achieve success.
+
+Empathetic: With a high awareness of others' experiences, I serve as a bridge between technical and people-oriented individuals, fostering connections and empathy towards a common goal. At CE, I acted as a bridge between sales, analytics, and the customers, empathizing with their needs and representing their interests.
+
+Humble: I am a work in progress, constantly seeking opportunities to learn and improve. I actively encourage constructive criticism during meetings with managers to enhance my performance.
+
+Passionate: When engaged in work that ignites my passion, I bring an infectious positive spirit. I am genuinely passionate about AI, people, music, self-improvement, and continuous learning.
+
+Philanthropic: I possess a deep love for people and a strong motivation to make a positive impact in their lives. Actively involved in my community, I am committed to leveraging technological advancements to drive positive change.
+
+Honest: Honesty is my guiding principle, serving as the best remedy and the true north star. I firmly believe that transparency leads to the best outcomes for all parties involved.
+
+Eager to Learn: I am naturally curious and have an insatiable appetite for knowledge, constantly seeking opportunities to expand my understanding and skills.
+
+I am excited about the opportunity to contribute to Weights & Biases' mission of building the best developer tools for machine learning. With my expertise, core attributes, and dedication to customer success, I am confident in my ability to make a significant impact. Thank you for considering my application. I look forward to discussing this position further and demonstrating my skills and fitness for the role.
+
+Sincerely,
+Christos Magganas
